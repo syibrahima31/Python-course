@@ -1,5 +1,5 @@
 # Python-course 
-# Master Data Science  and  Intelligence Artificielle
+# Master Data Science  and  Intelligence Artificielle (DSIA)
 
 > Je Compléterai e répertoire au fur tu temps que le module avance , donc je vous onseille de voir régulieremnt ce répertoire . 
 
