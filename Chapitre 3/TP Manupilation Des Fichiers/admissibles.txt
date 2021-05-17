@@ -1,0 +1,12 @@
+1	Ibrahima Cisse	Admissible	2
+2	Salif Kasse	Éliminé	-
+3	Aida Sene 	Admissible	3
+4	Djiby Ndiaye 	Admissible	4
+5	Fatou Fall 	Éliminé	-
+6	Issa Sall 	Admissible	3
+7	Abdou Geuye 	Éliminé	-
+8	Nancy Kane 	Admissible	1
+9	Abdoulaye Michel Sy 	Admissible	4
+10	Ndeye Sy 	Éliminé	-
+11	Amy Colle 	Éliminé	-
+12	Maimouna Ndiaye 	Admissible	3
